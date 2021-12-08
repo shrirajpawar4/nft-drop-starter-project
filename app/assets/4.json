@@ -1,0 +1,19 @@
+{
+    "name": "CHECO_NFT",
+    "symbol": "",
+    "image": "4.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "4.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2ShfHinZATHhkXFXJ8Fkt63TUALS7ZFrJjXX4LoccP2X",
+          "share": 100
+        }
+      ]
+    }
+  }

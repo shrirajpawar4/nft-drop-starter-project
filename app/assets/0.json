@@ -1,0 +1,19 @@
+{
+    "name": "Bottas_NFT",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2ShfHinZATHhkXFXJ8Fkt63TUALS7ZFrJjXX4LoccP2X",
+          "share": 100
+        }
+      ]
+    }
+  }
